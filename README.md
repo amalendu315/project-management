@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). This app uses [Typescript] as well as [Shadcn-UI]
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). This app uses [Typescript](https://www.typescriptlang.org/) as well as [Shadcn/UI](https://ui.shadcn.com/). Also used [CLERK](https://clerk.com/) for authentication and registration using Google, Github and Email.
 
 ### Welcome to BOARDY :-  Collaborative Project Management Website.
 
